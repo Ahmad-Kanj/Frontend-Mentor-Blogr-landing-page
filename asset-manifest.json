@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/css/main.bd108d78.chunk.css",
+    "main.js": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/main.34bb8359.chunk.js",
+    "main.js.map": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/main.34bb8359.chunk.js.map",
+    "runtime-main.js": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/runtime-main.bcb9f552.js",
+    "runtime-main.js.map": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/runtime-main.bcb9f552.js.map",
+    "static/js/2.5b5e94c9.chunk.js": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/2.5b5e94c9.chunk.js",
+    "static/js/2.5b5e94c9.chunk.js.map": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/2.5b5e94c9.chunk.js.map",
+    "static/js/3.11ee0799.chunk.js": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/3.11ee0799.chunk.js",
+    "static/js/3.11ee0799.chunk.js.map": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/3.11ee0799.chunk.js.map",
+    "index.html": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/index.html",
+    "static/css/main.bd108d78.chunk.css.map": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/css/main.bd108d78.chunk.css.map",
+    "static/js/2.5b5e94c9.chunk.js.LICENSE.txt": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/js/2.5b5e94c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/static/media/illustration-laptop-mobile.fe1ec0f0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb9f552.js",
+    "static/js/2.5b5e94c9.chunk.js",
+    "static/css/main.bd108d78.chunk.css",
+    "static/js/main.34bb8359.chunk.js"
+  ]
+}

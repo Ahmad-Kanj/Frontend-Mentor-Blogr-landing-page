@@ -21,14 +21,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/blob/main/Screenshot_1.png)
+![](https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-landing-page/blob/main/Screenshot_1.png)
 
-(https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page/blob/main/Screenshot_2.png)
+(https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-landing-page/blob/main/Screenshot_2.png)
 
 ### Links
 
-- Solution URL:(https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-Landing-page)
-- Live Site URL:(https://ahmad-kanj.github.io/Frontend-Mentor-Bloger-Landing-page/)
+- Solution URL:(https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-landing-page)
+- Live Site URL:(https://ahmad-kanj.github.io/Frontend-Mentor-Bloger-landing-page/)
 
 ### Built with
 

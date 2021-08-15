@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Ahmad-Kanj/Frontend-Mentor-Bloger-landing-page)
-- Live Site URL:(https://ahmad-kanj.github.io/Frontend-Mentor-Bloger-landing-page/)
+- Live Site URL:(https://ahmad-kanj.github.io/Frontend-Mentor-Blogr-landing-page/)
 
 ### Built with
 
